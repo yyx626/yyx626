@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **yyx626/yyx626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### github概览数据
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yyx626&show_icons=true&theme=dark&count_private=true)
+### 语言数据
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyx626&theme=dark&layout=compact)
