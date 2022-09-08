@@ -18,5 +18,5 @@ Welcome to my Github page! I am a GIS developer.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyx626&theme=light&layout=compact&hide_border=true" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyx626&theme=light&layout=compact&hide_border=true" />
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=yyx626&show_icons=true&hide_border=true" />
