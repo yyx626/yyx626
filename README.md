@@ -1,20 +1,22 @@
 
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### This is Yu Yingxue!
 
-<!--
-**yyx626/yyx626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yyx626)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078d4?style=flat&logo=MicrosoftOutlook&logoColor=white)](mailto:isyuyingxue@outlook.com)
 
-Here are some ideas to get you started:
+Welcome to my Github page! I am a GIS developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### github概览数据
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yyx626&show_icons=true&theme=dark&count_private=true)
-### 语言数据
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyx626&theme=dark&layout=compact)
+#### ✔️ I am currently learning: 
+- OpenGL
+
+#### 💻 Programming languages and tools: 
+<p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyx626&theme=light&layout=compact&hide_border=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=yyx626&show_icons=true&hide_border=true" />
