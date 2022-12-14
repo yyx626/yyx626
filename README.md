@@ -7,9 +7,6 @@
 
 Welcome to my Github page! I am a GIS developer. 
 
-#### ✔️ I am currently learning: 
-- OpenGL
-
 #### 💻 Programming languages and tools: 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
