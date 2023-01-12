@@ -1,11 +1,11 @@
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-### This is Yu Yingxue!
+<!-- ### This is Yu Yingxue! -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yyx626)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078d4?style=flat&logo=MicrosoftOutlook&logoColor=white)](mailto:isyuyingxue@outlook.com)
 
-Welcome to my Github page! I am a GIS developer. 
+<!-- Welcome to my Github page! I am a GIS developer.  -->
 
 #### 💻 Programming languages and tools: 
 <p>
