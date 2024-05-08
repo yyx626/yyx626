@@ -6,6 +6,8 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078d4?style=flat&logo=MicrosoftOutlook&logoColor=white)](mailto:isyuyingxue@outlook.com)
 
 <!-- Welcome to my Github page! I am a GIS developer.  -->
+Used to be a GIS software engineer, trying to change careers :)
+Currently an MSc student in Applied GIS and Remote Sensing at the University of Southampton. 
 Research direction: Remote sensing image detection、AI
 <!-- #### 💻 Programming languages and tools: 
 <p>
