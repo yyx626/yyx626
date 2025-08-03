@@ -3,7 +3,7 @@
 <!-- ### This is Yu Yingxue! -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yyx626)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078d4?style=flat&logo=MicrosoftOutlook&logoColor=white)](mailto:isyuyingxue@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-5b5b5b?style=flat&logo=gmail&logoColor=red)](mailto:isyuyingxue@gmail.com)
 
 <p>Welcome to my Github page! I'm a software development engineer working at Meituan.</p>
 <p>Used to be a GIS software engineer.</p>
