@@ -5,10 +5,12 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yyx626)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078d4?style=flat&logo=MicrosoftOutlook&logoColor=white)](mailto:isyuyingxue@outlook.com)
 
-<!-- Welcome to my Github page! I am a GIS developer.  -->
-<p>Used to be a GIS software engineer :)</p>
-<p>Currently an MSc student in Applied GIS and Remote Sensing at the University of Southampton. </p>
-<p>Research direction: Remote sensing image detection、AI</p>
+<p>Welcome to my Github page! I'm a software development engineer working at Meituan.</p>
+<p>Used to be a GIS software engineer.</p>
+<p>Graduated from the University of Southampton with a Master's degree in Applied GIS and Remote Sensing.</p>
+<p>Feel free to connect with me. :)</p>
+<!-- <p>Currently an MSc student in Applied GIS and Remote Sensing at the University of Southampton.</p> -->
+<!-- <p>Research direction: Remote sensing image detection、AI</p> -->
 <!-- #### 💻 Programming languages and tools: 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
